@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**CosmosNing/CosmosNing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [CosmosNing](https://github.com/CosmosNing). I'm now a postgraduate student at NUAA, majoring in Software Engineering.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently researching on keyword search over RDF datasets.
+- 🌱 I’m currently learning RDF, SPARQL, Neo4j, etc. ..
+- 💖 Hobbies:
+  - Playing single-player games( **Skyrim** is one of my favorite.)
+  - Movies
+  - Writing blogs ( If you understand Chinese, you can follow this [link](https://cosmosning.vercel.app/) to visit my blog )
+  - Coding
+- 📫 How to reach me: 
+  - You can contact me via e-mail:
+    - ningjiang.li@nuaa.edu.cn（For academic）
+    - cosmosning@gmail.com(For others)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![CosmosNing's github stats](https://github-readme-stats.vercel.app/api?username=CosmosNing&show_icons=true)](https://github-readme-stats.vercel.app/api?username=CosmosNing&show_icons=true)
