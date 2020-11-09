@@ -11,7 +11,7 @@ I'm [CosmosNing](https://github.com/CosmosNing). I'm now a postgraduate student 
   - Coding
 - 📫 How to reach me: 
   - You can contact me via e-mail:
-    - ningjiang.li@nuaa.edu.cn（For academic）
+    - ningjian.li@nuaa.edu.cn（For academic）
     - cosmosning@gmail.com(For others)
 
 [![CosmosNing's github stats](https://github-readme-stats.vercel.app/api?username=CosmosNing&show_icons=true)](https://github-readme-stats.vercel.app/api?username=CosmosNing&show_icons=true)
